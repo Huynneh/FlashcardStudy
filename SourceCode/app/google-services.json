@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "175361179094",
+    "firebase_url": "https://final-mobile-8549e-default-rtdb.firebaseio.com",
+    "project_id": "final-mobile-8549e",
+    "storage_bucket": "final-mobile-8549e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175361179094:android:039c3b0ae1d6f42e157877",
+        "android_client_info": {
+          "package_name": "com.example.afinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2Y3cAOPgUYf3xNSg8CFzDVcza-KhZGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
